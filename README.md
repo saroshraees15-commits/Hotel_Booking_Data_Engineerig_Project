@@ -1,14 +1,11 @@
 # Hotel_Booking_Data_Engineerig_Project
 End-to-end Data Engineering project implementing Medallion Architecture (Bronze–Silver–Gold) using Databricks and building a business KPI dashboard in Looker Studio.
-Business Requirements Document – Hotel Analytics Dashboard 
 
- 
-
-        1.	Background 
+# 1.	Background 
 
 The hotel has raw, inconsistent booking data and lacks a clear view of monthly revenue, booking trends, and city-level performance. Management needs quick, accurate insights for decision making. 
 
-        2.	Objectives 
+# 2.	Objectives 
 
 Clean and standardize booking data 
 
@@ -20,7 +17,7 @@ Analyze bookings by type and status
 
 Display key KPIs (like total revenue, total bookings) 
 
-        3.	Functional Requirement  
+# 3.	Functional Requirement  
 
 Clean raw dataset (fix dates, duplicates, missing values) 
 
@@ -40,12 +37,15 @@ Bookings by status (bar chart)
 
 Expose KPIs on dashboard	 
 
-        4.	Deliverables 
+<img width="1902" height="917" alt="hotel dashboard" src="https://github.com/user-attachments/assets/ccca4f73-3f0c-4a1e-a7e6-ba90491a02de" />
+
+
+# 4.	Deliverables 
 
 Accurate monthly metrics 
 
 Correct KPIs 
 
- Dashboard easy to interpret 
+Dashboard easy to interpret 
 
 No data quality issues in final output 
